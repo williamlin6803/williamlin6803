@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+```
 class Bio:
     def __init(self):
         self.name = 'William Lin'
@@ -19,7 +19,7 @@ class Bio:
                 'JavaScript',
                 'Java'
             ]
-
+```
 
 <!--
 **williamlin6803/williamlin6803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
