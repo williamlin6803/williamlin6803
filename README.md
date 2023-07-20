@@ -5,10 +5,7 @@ class Bio:
         self.name = 'William Lin'
         self.location = 'Manhattan NY'
         self.major = 'Computer Science'
-
-    def TechnicalSkills:
-        def __init__(self):
-            self.languages = [
+        self.skills = [
                 'Python',
                 'C++',
                 'C',
