@@ -6,16 +6,16 @@ class Bio:
         self.location = 'Manhattan NY'
         self.major = 'Computer Science'
         self.skills = [
-                'Python',
-                'C++',
-                'C',
-                'MongoDB',
-                'Express.js',
-                'React',
-                'Node.js'
-                'JavaScript',
-                'Java'
-            ]
+            'Python',
+            'C++',
+            'C',
+            'MongoDB',
+            'Express.js',
+            'React',
+            'Node.js'
+            'JavaScript',
+            'Java'
+        ]
 ```
 
 <!--
