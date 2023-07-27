@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```
 class Bio:
-    def __init(self):
+    def __init__(self):
         self.name = 'William Lin'
         self.location = 'Manhattan NY'
         self.major = 'Computer Science'
